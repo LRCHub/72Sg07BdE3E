@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スノーノワール",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:06:15.227042Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スノーノワール",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_スノーノワール_三月のパンタシア.txt"
+    }
+  ]
+}
